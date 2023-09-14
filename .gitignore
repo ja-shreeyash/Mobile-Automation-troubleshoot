@@ -1,0 +1,12 @@
+*.iml
+*.ipr
+*.iws
+.idea
+allure-results
+*/allure-results
+workspace.xml
+node_modules/
+*\src\test\resources\capabilities\
+.DS_Store
+/target
+*.log
